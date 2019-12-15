@@ -1,0 +1,9 @@
+c:\users\yusuf\documents\visual studio 2015\Projects\simplecalculator\simplecalculator\bin\Debug\simplecalculator.exe.config
+c:\users\yusuf\documents\visual studio 2015\Projects\simplecalculator\simplecalculator\bin\Debug\simplecalculator.exe
+c:\users\yusuf\documents\visual studio 2015\Projects\simplecalculator\simplecalculator\bin\Debug\simplecalculator.pdb
+c:\users\yusuf\documents\visual studio 2015\Projects\simplecalculator\simplecalculator\obj\Debug\simplecalculator.csprojResolveAssemblyReference.cache
+c:\users\yusuf\documents\visual studio 2015\Projects\simplecalculator\simplecalculator\obj\Debug\simplecalculator.Form1.resources
+c:\users\yusuf\documents\visual studio 2015\Projects\simplecalculator\simplecalculator\obj\Debug\simplecalculator.Properties.Resources.resources
+c:\users\yusuf\documents\visual studio 2015\Projects\simplecalculator\simplecalculator\obj\Debug\simplecalculator.csproj.GenerateResource.Cache
+c:\users\yusuf\documents\visual studio 2015\Projects\simplecalculator\simplecalculator\obj\Debug\simplecalculator.exe
+c:\users\yusuf\documents\visual studio 2015\Projects\simplecalculator\simplecalculator\obj\Debug\simplecalculator.pdb
